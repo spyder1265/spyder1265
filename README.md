@@ -10,17 +10,18 @@
         overflow-x: hidden;
     "
     >
-      <img
-        style="
-          width: 100%;
-          height: auto;
-          object-fit: cover;
-        "
-        align="left"
-        alt="Coding"
-        src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
-      />
-        <br/>
+        <div>
+            <img
+                style="
+                width: 100%;
+                height: auto;
+                object-fit: cover;
+                "
+                align="left"
+                alt="Coding"
+                src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
+            />
+        </div>
         <div
             style="
             width: 100%;            
