@@ -1,15 +1,13 @@
-<div>
-    <img
-        style="
-        width: 100%;
-        height: auto;
-        object-fit: cover;
-        "
-        align="left"
-        alt="Coding"
-        src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
-    />
-</div>
+<img
+    style="
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    "
+    align="left"
+    alt="Coding"
+    src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
+/>
 <div
     style="
     width: 100%;            
