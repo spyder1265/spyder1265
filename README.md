@@ -3,12 +3,12 @@
     width: 400px;
     height: 300px;
     object-fit: cover;
-    position:fixed;
     "
     align="left"
     alt="Coding"
     src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
 />
+
 <h1
     style="
     color: white;
@@ -36,7 +36,7 @@
     text-align: center;
     "
 >Connect with me:</h3>
-<div
+<p
     style="
     display: flex;
     flex-direction: row;
@@ -101,7 +101,7 @@
         width="40"
     />
     </a>
-</div>
+</p>
 <h3   
     style="
     color: white;
@@ -112,7 +112,7 @@
 >
 Languages and Tools:
 </h3>
-<div
+<p
     style="
     display: flex;
     flex-direction: row;
@@ -131,8 +131,8 @@ Languages and Tools:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
-</div>
-<div
+</p>
+<p
     style="
     display: flex;
     flex-direction: row;
@@ -144,4 +144,4 @@ Languages and Tools:
 >
     <img width="350px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder1265&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     <img width="400px" height="190px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spyder1265" alt="GitHub Streak Stats" />
-</div>
+</p>
