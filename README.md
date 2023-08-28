@@ -1,11 +1,13 @@
-<div style="width: 100vw; height: 100vh; padding: 0; margin: 0">
-    <div style="
+<div style="
         width: 100%; 
         height: 100%; 
         padding: 0; 
         margin: 0;
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex: 0;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         overflow-x: hidden;
     "
@@ -13,7 +15,7 @@
       <img
         style="
           width: 100%;
-          height: 200px;
+          height: auto;
           object-fit: cover;
         "
         align="left"
@@ -30,6 +32,7 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            flex: 1;
             padding-bottom: 50px;
             "
         >
@@ -136,7 +139,7 @@
             >
             Languages and Tools:
             </h3>
-            <div
+                        <div
                 style="
                 display: flex;
                 flex-direction: row;
@@ -150,11 +153,18 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="fill: #fff;" alt="nextjs" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
+                <!-- npm, yarn -->
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40" />
             </div>
             <div
                 style="
@@ -166,26 +176,7 @@
                 margin-top: 20px;
                 "
             >
-                <img width="350px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder1265&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-                <img width="400px" height="190px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spyder1265" alt="GitHub Streak Stats" />
+                    <img width=350px height=190px align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder1265&show_icons=true&locale=en&layout=compact" alt="spyder1265" />
+                    <img width=400px align="right" height=190px src="https://github-readme-streak-stats.herokuapp.com/?user=spyder1265&" alt="spyder1265" />
             </div>
-         </div>
-    </div>
-</div>
-
-
-
-<!--
-**spyder1265/spyder1265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        </div>
