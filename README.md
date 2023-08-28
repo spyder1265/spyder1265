@@ -1,4 +1,4 @@
-<div style="
+    <div style="
         width: 100%; 
         height: 100%; 
         padding: 0; 
@@ -7,7 +7,6 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        flex: 0;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         overflow-x: hidden;
     "
@@ -15,7 +14,7 @@
       <img
         style="
           width: 100%;
-          height: auto;
+          height: 200px;
           object-fit: cover;
         "
         align="left"
@@ -27,38 +26,33 @@
             width: 100%;            
             padding: 0;
             margin: 0;
-            background: #000;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            flex: 1;
-            padding-bottom: 50px;
+            padding-bottom: 44px;
             "
         >
             <h1
                 style="
-                color: white;
-                font-size: 5rem;
-                font-weight: 700;
-                text-align: center;
+                font-size: 3rem;
+                margin-bottom: -2px;
                 "
             >
                 Hi, I'm Titus
             </h1>
             <h3
                 style="
-                color: white;
                 font-size: 2rem;
-                font-weight: 400;
-                text-align: center;
+                font-weight: 100;
+                margin-bottom: -2px;
+
                 "
             >
                 I'm a Software Engineer
             </h3>
             <h3
                 style="
-                color: white;
                 font-weight: 400;
                 text-align: center;
                 "
@@ -131,7 +125,6 @@
             </div>
             <h3   
                 style="
-                color: white;
                 font-weight: 400;
                 text-align: center;
                 margin-top: 20px;
@@ -155,17 +148,14 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="fill: #fff;" alt="nextjs" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
-                <!-- npm, yarn -->
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40" />
             </div>
+
             <div
                 style="
                 display: flex;
