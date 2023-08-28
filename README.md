@@ -20,6 +20,7 @@
         alt="Coding"
         src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
       />
+        <br/>
         <div
             style="
             width: 100%;            
