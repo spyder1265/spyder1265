@@ -1,12 +1,11 @@
-<div style="
+<div style="width: 100vw; height: 100vh; padding: 0; margin: 0">
+    <div style="
         width: 100%; 
         height: 100%; 
         padding: 0; 
         margin: 0;
         display: flex;
         flex-direction: column;
-        justify-content: center;
-        align-items: center;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         overflow-x: hidden;
     "
@@ -14,7 +13,7 @@
       <img
         style="
           width: 100%;
-          height: 200px;
+          height: auto;
           object-fit: cover;
         "
         align="left"
@@ -26,32 +25,37 @@
             width: 100%;            
             padding: 0;
             margin: 0;
+            background: #000;
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            padding-bottom: 44px;
+            padding-bottom: 50px;
             "
         >
             <h1
                 style="
-                font-size: 3rem;
-                margin-bottom: -2px;
+                color: white;
+                font-size: 5rem;
+                font-weight: 700;
+                text-align: center;
                 "
             >
                 Hi, I'm Titus
             </h1>
             <h3
                 style="
+                color: white;
                 font-size: 2rem;
-                font-weight: 100;
-                margin-bottom: -2px;
+                font-weight: 400;
+                text-align: center;
                 "
             >
                 I'm a Software Engineer
             </h3>
             <h3
                 style="
+                color: white;
                 font-weight: 400;
                 text-align: center;
                 "
@@ -124,6 +128,7 @@
             </div>
             <h3   
                 style="
+                color: white;
                 font-weight: 400;
                 text-align: center;
                 margin-top: 20px;
@@ -131,7 +136,7 @@
             >
             Languages and Tools:
             </h3>
-                        <div
+            <div
                 style="
                 display: flex;
                 flex-direction: row;
@@ -145,14 +150,11 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="fill: #fff;" alt="nextjs" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
             </div>
             <div
                 style="
@@ -164,7 +166,9 @@
                 margin-top: 20px;
                 "
             >
-                    <img width=350px height=190px align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder1265&show_icons=true&locale=en&layout=compact" alt="spyder1265" />
-                    <img width=400px align="right" height=190px src="https://github-readme-streak-stats.herokuapp.com/?user=spyder1265&" alt="spyder1265" />
+                <img width="350px" height="190px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spyder1265&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+                <img width="400px" height="190px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spyder1265" alt="GitHub Streak Stats" />
             </div>
-        </div>
+         </div>
+    </div>
+</div>
