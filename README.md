@@ -46,7 +46,6 @@
                 font-size: 2rem;
                 font-weight: 100;
                 margin-bottom: -2px;
-
                 "
             >
                 I'm a Software Engineer
@@ -155,7 +154,6 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
             </div>
-
             <div
                 style="
                 display: flex;
