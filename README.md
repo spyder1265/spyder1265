@@ -6,7 +6,6 @@
         margin: 0;
         display: flex;
         flex-direction: column;
-        flex: 0;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         overflow-x: hidden;
     "
@@ -31,7 +30,6 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            flex: 1;
             padding-bottom: 50px;
             "
         >
@@ -157,7 +155,6 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" />
             </div>
             <div
                 style="
