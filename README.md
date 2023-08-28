@@ -13,7 +13,7 @@
       <img
         style="
           width: 100%;
-          height: auto;
+          height: 200px;
           object-fit: cover;
         "
         align="left"
