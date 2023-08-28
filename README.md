@@ -1,8 +1,9 @@
 <img
     style="
-    width: 100%;
-    height: auto;
+    width: 400px;
+    height: 300px;
     object-fit: cover;
+    position:fixed;
     "
     align="left"
     alt="Coding"
