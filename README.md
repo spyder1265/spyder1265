@@ -1,6 +1,6 @@
 <img width=1000px height=300px align="left" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h1 align="center">Hi 👋, I'm Titus Likhi</h1>
-<h3 align="center">A passionate fullstack Software Developer from Ghana</h3>
+<h3 align="center">A passionate Software Developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyder1265&label=Profile%20views&color=0e75b6&style=flat" alt="spyder1265" /> </p>
 
