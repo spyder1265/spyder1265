@@ -1,4 +1,4 @@
-<img width=1000px height=300px align="left" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*okbBhXU2x0f_eFyUVyc-gA.gif">
+<img width=1000px height=300px align="left" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h1 align="center">Hi 👋, I'm Titus Likhi</h1>
 <h3 align="center">A passionate fullstack developer from Ghana</h3>
 
