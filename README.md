@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyder1265&label=Profile%20views&color=0e75b6&style=flat" alt="spyder1265" /> </p>
-
+<p align="center"> As a versatile software engineer, I'm inspired by the art of designing enticing user interfaces and seamless experiences. I use React to elegantly integrate dynamic motion and elegant UI design. I'm a frontend and backend developer with expertise in React, Next.js, and Tailwind CSS for gorgeous layouts. My knowledge of the backend includes Nest.js, Node.js, MySQL, and NoSQL databases. I use TypeScript, Framer Motion, React Icons, and Prisma to orchestrate dynamic frontend interactions. In addition, I am proficient in Linux and React-Native (Expo) for mobile development. This diversified skill set enables me to turn ideas into polished digital realities with ease.</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyder1265" alt="spyder1265" /></a> </p>
 
 - 📫 How to reach me **titusabeiku05@gmail.com**
